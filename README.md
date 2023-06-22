@@ -1,2 +1,2 @@
-# moviesStore
-movies store microservice repo
+# movies-store
+Movies Store
